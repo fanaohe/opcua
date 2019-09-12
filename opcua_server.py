@@ -72,6 +72,7 @@ print("wwwww")
 print("22222")
 print("#####")
 print("%%%%%")
+print("$$$$$")
 
 
 
